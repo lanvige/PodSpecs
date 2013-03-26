@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'MCampusKit'
-  s.version  = '0.0.1'
+  s.version  = '0.1.0'
   s.summary  = 'Kit for MobileCampus in Lantop'
   s.homepage = 'https://github.com/lanvige/MCampusKit'
   s.authors  = { 'Lanvige Jiang' => 'lanvige@gmail.me', 'Vic Zhou' => 'vicky@ymail.com' }
