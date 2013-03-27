@@ -12,5 +12,7 @@ Pod::Spec.new do |s|
   # s.ios.frameworks = 'MobileCoreServices', 'SystemConfiguration', 'Security'
   
   s.dependency 'AFNetworking'
+  s.dependency 'SSKeychain'
+  s.dependency 'Reachability'
   # The readme says that it is needed but it lints without
 end
