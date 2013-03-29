@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary  = 'Kit for MobileCampus in Lantop'
   s.homepage = 'https://github.com/lanvige/MCampusKit'
   s.authors  = { 'Lanvige Jiang' => 'lanvige@gmail.me', 'Vic Zhou' => 'vicky@ymail.com' }
-  s.source   = { :git => 'https://github.com/lanvige/MCampusKit.git' }
+  s.source   = { :git => 'git@github.com:lanvige/PodSpecs.git' }
   s.source_files = 'MCampusKit'
   s.requires_arc = true
 
