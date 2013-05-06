@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version  = '0.1.0'
   s.summary  = 'Head table view'
   s.homepage = 'https://github.com/Lantop/MCHeadTableView'
-  s.authors  = { 'Vic Zhou' => 'vicky@ymail.com' 'Lanvige Jiang' => 'lanvige@gmail.me' }
+  s.authors  = { 'Vic Zhou' => 'vicky@ymail.com', 'Lanvige Jiang' => 'lanvige@gmail.me' }
   s.source   = { :git => 'git@github.com:Lantop/MCHeadTableView.git' }
   s.source_files = 'MCHeadTableView/*.{h,m}'
   s.requires_arc = true
