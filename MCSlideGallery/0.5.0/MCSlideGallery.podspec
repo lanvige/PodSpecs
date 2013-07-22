@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version  = '0.5.0'
   s.summary  = 'Slide gallery in Mobile Campus'
   s.homepage = 'https://github.com/lantop/MCSlideGallery'
-  s.authors  = { 'Lanvige Jiang' => 'lanvige@gmail.me', 'Vic Zhou' => 'vicky@ymail.com' }
+  s.authors  = { 'Lanvige Jiang' => 'lanvige@gmail.com', 'Vic Zhou' => 'vicky@ymail.com' }
   s.source   = { :git => 'https://github.com/Lantop/MCSlideGallery' }
   s.source_files = 'MCSlideGallery'
   s.resources = 'MCSlideGallery/MCSlideGallery.bundle'
