@@ -6,6 +6,7 @@ Pod::Spec.new do |s|
   s.authors  = { 'Lanvige Jiang' => 'lanvige@gmail.me' }
   s.source   = { :git => 'https://github.com/lanvige/MMSuperViewController' }
   s.source_files = 'MMSuperViewController'
+  s.resources = 'MMSuperViewController/MMSuperViewController.bundle'
   s.requires_arc = true
 
   s.ios.deployment_target = '5.0'
